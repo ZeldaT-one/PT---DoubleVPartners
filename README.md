@@ -40,7 +40,7 @@ La colección exportada está disponible en el archivo `Prueba Tecnica AF.postma
 }
 ```
 ### 4. Eliminar producto
-- **Método**: `PUT`
+- **Método**: `DELETE`
 - **URL**: `https://fakestoreapi.com/products/9`
 - **Descripción**: Elimina el producto que se filtre.
 
