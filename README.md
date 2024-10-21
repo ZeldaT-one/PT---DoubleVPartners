@@ -26,6 +26,23 @@ La colección exportada está disponible en el archivo `Prueba Tecnica AF.postma
   "category": "electronics"
 }
 
+### 3. Actualizar caracteristicas del producto
+- **Método**: `PUT`
+- **URL**: `https://fakestoreapi.com/products/7`
+- **Body**:
+```json
+{
+  "title": "Producto Actualizado",
+  "price": 59.99,
+  "description": "Descripción del producto actualizado.",
+  "image": "https://i.pravatar.cc",
+  "category": "electronics"
+}
+
+### 3. Eliminar producto
+- **Método**: `PUT`
+- **URL**: `https://fakestoreapi.com/products/7`
+
 
 
 
