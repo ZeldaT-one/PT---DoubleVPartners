@@ -44,8 +44,10 @@ La colección exportada está disponible en el archivo `Prueba Tecnica AF.postma
 - **URL**: `https://fakestoreapi.com/products/9`
 - **Descripción**: Elimina el producto que se filtre.
 
+## NOTA
+- Se adjuntan los resultados de la prueba en Jmeter como TEST (Pruebas de estres) y escalado de usuarios
 
-
+## Gracias
 
 
 
