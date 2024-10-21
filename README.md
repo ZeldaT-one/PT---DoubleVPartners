@@ -24,8 +24,8 @@ La colección exportada está disponible en el archivo `Prueba Tecnica AF.postma
   "description": "Descripción del nuevo producto",
   "image": "https://example.com/nuevo-producto.jpg",
   "category": "electronics"
-}
-
+} 
+```
 ### 3. Actualizar caracteristicas del producto
 - **Método**: `PUT`
 - **URL**: `https://fakestoreapi.com/products/7`
@@ -38,10 +38,11 @@ La colección exportada está disponible en el archivo `Prueba Tecnica AF.postma
   "image": "https://i.pravatar.cc",
   "category": "electronics"
 }
-
+```
 ### 3. Eliminar producto
 - **Método**: `PUT`
 - **URL**: `https://fakestoreapi.com/products/7`
+- **Descripción**: Elimina el producto que se filtre.
 
 
 
